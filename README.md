@@ -1,2 +1,2 @@
-# html-london-trip
-Viaggio a Londra
+Questo è il README dell'esercizio 'london-trip'
+###
